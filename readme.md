@@ -155,7 +155,9 @@ ls -l /var/secure/user_passwords.csv
 
 This should create the users and groups as specified, and log the actions properly.
 
-![Screenshot Description]Screenshot from 2024-07-03 22-43-39.png
+
+![image](Screenshot%20from%202024-07-03%2022-43-39.png)
+
 
 
 Conclusion
