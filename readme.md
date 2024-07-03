@@ -155,6 +155,9 @@ ls -l /var/secure/user_passwords.csv
 
 This should create the users and groups as specified, and log the actions properly.
 
+![Screenshot Description](Screenshot from 2024-07-03 22-33-30.png)
+
+
 Conclusion
 This script automates the process of user and group management, ensuring efficiency and consistency. For more information on similar projects and learning opportunities, check out the HNG Internship: https://hng.tech/internship and HNG Premium: https://hng.tech/premium
 
