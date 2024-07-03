@@ -1,16 +1,14 @@
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Script Overview](#script-overview)
-4. [Step-by-Step Process](#step-by-step-process)
+
+1. [Step-by-Step Process](#step-by-step-process)
    - [Setting Up Logging and Password Storage](#setting-up-logging-and-password-storage)
    - [Logging Function](#logging-function)
    - [User and Group Creation Function](#user-and-group-creation-function)
    - [Reading User Data](#reading-user-data)
    - [Pre-Creating Groups](#pre-creating-groups)
    - [Creating Users and Assigning Groups](#creating-users-and-assigning-groups)
-5. [Conclusion](#conclusion)
-6. [Additional Resources](#additional-resources)
+2. [Conclusion](#conclusion)
+
 
 
 Setting Up Logging and Password Storage
@@ -153,7 +151,7 @@ ls -l /var/secure/user_passwords.csv
 This should create the users and groups as specified, and log the actions properly.
 
 Conclusion
-This script automates the process of user and group management, ensuring efficiency and consistency. For more information on similar projects and learning opportunities, check out the HNG Internship and HNG Premium.
+This script automates the process of user and group management, ensuring efficiency and consistency. For more information on similar projects and learning opportunities, check out the HNG Internship: https://hng.tech/internship and HNG Premium: https://hng.tech/premium
 
 For further inquiries, feel free to reach out, and happy automating!
 
