@@ -12,7 +12,7 @@
 
 
 Setting Up Logging and Password Storage
-We define the locations for the log file and the password file and ensure they have the correct permissions.
+We define the locations for the log file and the password file and ensure they have the correct permissions in a script called _**create_users.sh**_
 
 ```bash
 LOG_FILE="/var/log/user_management.log"
