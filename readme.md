@@ -132,7 +132,12 @@ echo "User creation process completed. Check $LOG_FILE for details."
 ```
 
 to run the Script, make it executable and run it
-_note: users.txt is the file that contains your users and groups_
+_note: users.txt is the file that contains your users and groups_ 
+_```bash tife; security,developer
+seun; developers,designer
+esther; writer
+lola; designer
+```_
 
 ```bash
 chmod +x create_users.sh
